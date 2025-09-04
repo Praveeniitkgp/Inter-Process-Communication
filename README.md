@@ -1,4 +1,4 @@
-# Inter-Process Communication Simulation – BarFooBar Restaurant
+# Inter-Process Communication
   
 This Project simulates a restaurant (BarFooBar) using **System V shared memory** and **semaphores** for inter-process communication and synchronization.
 
